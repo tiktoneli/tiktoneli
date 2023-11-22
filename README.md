@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raynan Titoneli</h1>
 <h3 align="center">A wannabe full-stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **TEAMHEROES**
+- 🔭 I’m currently working on [TEAMHEROES](https://github.com/Adilson-Fernando-Neves-Ornellas/trabalho-grupo04-09--react-native)
 
 - 👯 I’m looking to collaborate on **backend java projects**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/raynan titoneli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raynan titoneli" height="30" width="40" /></a>
 <a href="https://instagram.com/supray_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supray_" height="30" width="40" /></a>
 </p>
 
