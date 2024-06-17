@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raynan Titoneli</h1>
-<h3 align="center">A wannabe full-stack developer from Brazil</h3>
+<h3 align="center">A full-stack developer from Brazil</h3>
 
 - 🔭 I’m currently working on a Private Project
 
-- 👯 I’m looking to collaborate on **backend java projects**
+- 👯 I’m looking to collaborate on **backend development projects**
 
-- 🤝 I’m looking for help with **Frontend styling and Database integrations**
+- 🤝 I’m looking for help with **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tiktoneli?tab=repositories](https://github.com/tiktoneli?tab=repositories)
 
