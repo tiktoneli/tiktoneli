@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Raynan Titoneli
-- 👀 Interested in Fullstack Development
-- 🌱 Currently learning Typescript
-- 💞️ Looking to collaborate on interesting projects
+- 👀 Interested in Backend development
+- 🌱 Currently learning Docker
 - 📫 Reach me out at raynan2007@gmail.com
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tiktoneli&show_icons=true&hide_border=true)
