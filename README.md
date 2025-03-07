@@ -3,7 +3,7 @@
 - 🌱 Currently learning Docker
 - 📫 Reach me out at raynan2007@gmail.com
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tiktoneli&show_icons=true&hide_border=true)
+[//]: #![Github_Stats](https://github-readme-stats.vercel.app/api?username=tiktoneli&show_icons=true&hide_border=true)
 
 <h1 align="left">Languages, Tools and Frameworks:</h1>
 
