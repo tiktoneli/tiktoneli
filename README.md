@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raynan Titoneli
 - 👀 Interested in Backend development
-- 🌱 Currently learning Docker
+- 🌱 Currently learning Vue.JS
 - 📫 Reach me out at raynan2007@gmail.com
 
 [//]: #![Github_Stats](https://github-readme-stats.vercel.app/api?username=tiktoneli&show_icons=true&hide_border=true)
